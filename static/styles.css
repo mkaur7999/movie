@@ -24,6 +24,8 @@ body{
 	background: linear-gradient(45deg, #ffffff, #ffffff, #f9f9f9, #eeeeee, #e0e4e1, #d7e1ec);
 	background-size: 500% 500%;
 	animation: change-gradient 10s ease-in-out infinite;
+	background-image: url("C:\Users\mkaur\Desktop\Movie-Genre-Prediction-Deployment-master\movie\static\image.jpg");
+
 }
 @keyframes change-gradient {
 	0%{
